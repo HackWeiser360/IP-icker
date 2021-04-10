@@ -21,7 +21,6 @@ try:
 
              
      Simple IP Address locator
-     Instagram: madmax4708
 
 """+R+""">>"""+Y+"""----"""+CY+""" Author - MådMâx """+Y+"""----"""+R+"""<<""")
         

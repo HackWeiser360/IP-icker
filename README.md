@@ -1,15 +1,15 @@
 # IPicker
+
+![Screenshot](Screenshot_20210406-100448.png)
 ### A simple IP locator tool for Termux, Ubuntu and Parrot-OS
 
-## Installation
-
-$ apt-get install python3
-
-$  git clone https://github.com/HackWeiser360/IP-icker
-
-$  cd IP-icker
-
-$ python3 IP-icker.py
+***
+## [~] Installation and Usage
+* $ apt-get install python3
+* $ git clone https://github.com/HackWeiser360/IP-icker
+* $ cd IP-icker
+* $ python3 IP-icker.py
+***
 
 ## Features
 
@@ -22,3 +22,5 @@ $ python3 IP-icker.py
 - Ubuntu
 - Parrot OS
 - Termux
+
+**For Termux users - You can open IP address loaction from browser or Google Maps App**
